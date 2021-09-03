@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/components/Profile/ProfileInfo/ProfileInfo.module.css"],"names":[],"mappings":"AAAA,iCACI,gBAAiB,CACjB,eACJ","file":"3.6e94016d.chunk.css","sourcesContent":[".profileImage {\r\n    max-height: 200px;\r\n    max-width: 200px;\r\n}"]}
